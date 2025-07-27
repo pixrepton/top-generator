@@ -1,0 +1,130 @@
+{
+  "1fazowe": {
+	  "KIT-WC03K3E5": {
+      "name": "KIT-WC03K3E5",
+      "power": "3kW",
+      "voltage": "230V",
+      "indoor_unit": "WH-SDC03K3E5",
+      "outdoor_unit": "WH-UDZ03KE5",
+      "price": 11000
+    },
+    "KIT-WC05K3E5": {
+      "name": "KIT-WC05K3E5",
+      "power": "5kW",
+      "voltage": "230V",
+      "indoor_unit": "WH-SDC05K3E5",
+      "outdoor_unit": "WH-UDZ05KE5",
+      "price": 13000
+    },
+    "KIT-WC07K3E5": {
+      "name": "KIT-WC07K3E5",
+      "power": "7kW",
+      "voltage": "230V",
+      "indoor_unit": "WH-SDC07K3E5",
+      "outdoor_unit": "WH-UDZ07KE5",
+      "price": 14000
+    },
+    "KIT-WC09K3E5": {
+      "name": "KIT-WC09K3E5",
+      "power": "9kW",
+      "voltage": "230V",
+      "indoor_unit": "WH-SDC09K3E5",
+      "outdoor_unit": "WH-UDZ09KE5",
+      "price": 16000
+    }
+  },
+	"all_in_one_185": {
+    "KIT-ADC09K3E5": {
+      "name": "All-in-One 9kW 185L",
+      "power": "9kW",
+      "voltage": "230V",
+      "indoor_unit": "WH-ADC0309K3E5",
+      "outdoor_unit": "WH-UDZ09KE5",
+      "price": 19000
+    },
+	  "KIT-ADC07K3E5": {
+      "name": "All-in-One 7kW 185L",
+      "power": "7kW",
+      "voltage": "230V",
+      "indoor_unit": "WH-ADC0309K3E5",
+      "outdoor_unit": "WH-UDZ07KE5",
+      "price": 17000
+    },
+	"KIT-ADC05K3E5": {
+      "name": "All-in-One 5kW 185L",
+      "power": "5kW",
+      "voltage": "230V",
+      "indoor_unit": "WH-ADC0309K3E5",
+      "outdoor_unit": "WH-UDZ05KE5",
+      "price": 16000
+    },
+"KIT-ADC03K3E5": {
+      "name": "All-in-One 3kW 185L",
+      "power": "3kW",
+      "voltage": "230V",
+      "indoor_unit": "WH-ADC0309K3E5",
+      "outdoor_unit": "WH-UDZ03KE5",
+      "price": 14000
+    }
+  },
+  "3fazowe": {
+    "KIT-WC09K3E8": {
+      "name": "KIT-WC09K3E8",
+      "power": "9kW",
+      "voltage": "400V",
+      "indoor_unit": "WH-SDC09K3E8",
+      "outdoor_unit": "WH-UDZ09KE8",
+      "price": 19500
+    },
+    "KIT-WC12K3E8": {
+      "name": "KIT-WC12K3E8",
+      "power": "12kW",
+      "voltage": "400V",
+      "indoor_unit": "WH-SDC12K3E8",
+      "outdoor_unit": "WH-UDZ12KE8",
+      "price": 21000
+    },
+	  "KIT-WC12K5E8": {
+      "name": "KIT-WC12K5E8",
+      "power": "12kW",
+      "voltage": "400V",
+      "indoor_unit": "WH-SDC12K5E8",
+      "outdoor_unit": "WH-UDZ12KE8",
+      "price": 21500
+    },
+    "KIT-WC16K9E8": {
+      "name": "KIT-WC16K9E8",
+      "power": "16kW",
+      "voltage": "400V",
+      "indoor_unit": "WH-SDC16K9E8",
+      "outdoor_unit": "WH-UDZ16KE8",
+      "price": 23000
+    }
+  },
+  "all_in_one_260": {
+    "KIT-ADC09K9E8": {
+      "name": "All-in-One 9kW 260L",
+      "power": "9kW",
+      "voltage": "400V",
+      "indoor_unit": "WH-ADC0912K9E8",
+      "outdoor_unit": "WH-UDZ09KE8",
+      "price": 24000
+    },
+    "KIT-ADC12K9E8": {
+      "name": "All-in-One 12kW 260L",
+      "power": "12kW",
+      "voltage": "400V",
+      "indoor_unit": "WH-ADC0912K9E8",
+      "outdoor_unit": "WH-UDZ12KE8",
+      "price": 26000
+    },
+    "KIT-ADC16K9E8": {
+      "name": "All-in-One 16kW 260L",
+      "power": "16kW",
+      "voltage": "400V",
+      "indoor_unit": "WH-ADC16K9E8",
+      "outdoor_unit": "WH-UDZ16KE8",
+      "price": 28000
+    }
+  }
+}
