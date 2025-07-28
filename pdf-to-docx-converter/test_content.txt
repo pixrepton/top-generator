@@ -1,0 +1,10 @@
+Test PDF Content
+
+To jest przykładowy dokument PDF do testowania konwertera.
+
+Konwerter PDF to DOCX powinien poprawnie przekonwertować ten tekst.
+
+Zawiera polskie znaki: ąćęłńóśźż ĄĆĘŁŃÓŚŹŻ
+
+Data: Mon Jul 28 12:29:10 PM UTC 2025
+
